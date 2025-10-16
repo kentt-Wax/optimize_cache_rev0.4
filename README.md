@@ -30,3 +30,5 @@ Set configuration options.
 See examples directory for complete usage
 
 # PR Merge: 2025-10-17 - docs/merge-5773
+
+# PR Merge: 2025-10-17 - enhancement/merge-2934
