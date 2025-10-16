@@ -28,3 +28,5 @@ Set configuration options.
 ## Examples
 
 See examples directory for complete usage
+
+# PR Merge: 2025-10-17 - docs/merge-5773
